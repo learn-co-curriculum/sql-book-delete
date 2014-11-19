@@ -37,4 +37,6 @@ Boom. Run a select on all wizards and you'll find that our second Bigby is gone 
 If you execute a `DELETE` statement without a WHERE clause, then all of the rows in that table will be deleted!
 
 
-TODO: ADD EXTRA PRACTICE
+## Resouces
+
+*[Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
