@@ -39,4 +39,4 @@ If you execute a `DELETE` statement without a WHERE clause, then all of the rows
 
 ## Resouces
 
-*[Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
+* [Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
