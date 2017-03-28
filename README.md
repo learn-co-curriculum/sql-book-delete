@@ -1,5 +1,5 @@
 # DELETE
-
+test
 Alright, we've finally made it to the last pillar of our Create, Retrieve, Update, and Delete (CRUD) database operation paradigm. With the ability to do these four things we'll be able to acheive most of what we'll ever need to do with our database. The last thing is `DELETE` and it, naturally, deletes existing rows from our database.
 
 `DELETE`, like `UPDATE`, works with the where clause. Otherwise it will delete all rows from the database. Deleting records is pretty straight forward. We have two Bigby records in our database right now, let's use some operators we learned about earlier to help us construct a `DELETE` statement to remove the second one.
